@@ -144,4 +144,5 @@ SSE 事件:
 
 ## License
 
-MIT
+
+MIT GOOD Xs
