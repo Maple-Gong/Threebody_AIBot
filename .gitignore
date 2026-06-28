@@ -1,0 +1,20 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+.DS_Store
+
+# SQLite 数据库（首次运行时自动从 JSON 生成）
+server/data/*.db
+server/data/*.db-wal
+server/data/*.db-shm
+
+# 测试结果
+test/result*.txt
+test/*.log
+test/.last-conv-id
+
+# IDE
+.vscode
+.idea
