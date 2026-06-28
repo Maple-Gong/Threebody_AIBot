@@ -144,5 +144,3 @@ SSE 事件:
 
 ## License
 
-
-MIT GOOD Xsss
